@@ -55,3 +55,5 @@ Durante a execução, o programa realiza validações de entrada, garantindo que
 - Luccas C.
 - Rulity A.
 - Catharina B.
+
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/></p>
